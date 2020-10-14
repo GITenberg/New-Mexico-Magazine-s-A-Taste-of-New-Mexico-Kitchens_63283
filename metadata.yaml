@@ -1,5 +1,8 @@
 _repo: New-Mexico-Magazine-s-A-Taste-of-New-Mexico-Kitchens_63283
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63283-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63283#New-Mexico-Magazine-s-A-Taste-of-New-Mexico-Kitchens
 gutenberg_issued: '2020-09-24'
 gutenberg_type: Text
 identifiers:
